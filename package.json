@@ -1,7 +1,7 @@
 {
   "name": "my-practice-app",
   "version": "0.0.0",
-  "main": "index.js",
+  "main": "main.ts",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
